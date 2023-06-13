@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Haraj app**
 
-- 🌱 I’m currently learning **kmm**
+- 🌱 I’m currently learning **scrum**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muzamilabdallah](https://github.com/Muzamilabdallah)
 
