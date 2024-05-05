@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzamil</h1>
-<h3 align="center">A passionate mobile developer from sudan</h3>
+<h3 align="center">  mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamilabdallah&label=Profile%20views&color=0e75b6&style=flat" alt="muzamilabdallah" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Haraj app**
 
-- 🌱 I’m currently learning **scrum**
+- 🌱 life Long learner
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muzamilabdallah](https://github.com/Muzamilabdallah)
 
